@@ -1,3 +1,5 @@
+!Openweather hast discontinued the free 2.5 api. So this will not work.
+
 # CannySprinkler
 Check if sprinkling lawn is necessary.
 
